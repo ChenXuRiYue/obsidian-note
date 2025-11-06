@@ -1,0 +1,23 @@
+# Obsidian - 忽略本地状态与插件代码，但保留可共享配置
+
+# --- 不同步插件代码（尤其是手动安装的）---
+.obsidian/plugins/*
+
+# 但保留插件的 *配置数据*（如果插件支持跨平台）
+!.obsidian/plugins/**/data.json
+
+# --- 忽略设备/会话专属状态 ---
+.obsidian/workspace
+.obsidian/workspace-mobile
+.obsidian/hotkeys.json      # 可选：如果你不想同步快捷键
+.obsidian/app.json          # 包含窗口大小、主题等，通常不建议同步
+
+# --- 忽略缓存与临时文件 ---
+.trash/
+*.tmp
+.DS_Store
+Thumbs.db
+
+# --- 可选：忽略某些附件类型（根据需求调整）---
+# *.pdf
+# *.mp4
