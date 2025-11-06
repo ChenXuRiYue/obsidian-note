@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "z.文档模版/_SUMARRY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "_SUMARRY"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "z.文档模版/_SUMARRY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "HOME 的反向链接列表"
+              "title": "_SUMARRY 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "z.文档模版/_SUMARRY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "HOME 的出链列表"
+              "title": "_SUMARRY 的出链列表"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md",
+                "file": "z.文档模版/_SUMARRY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HOME 的大纲"
+              "title": "_SUMARRY 的大纲"
             }
           }
         ]
@@ -184,10 +184,10 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "42f960904af7069e",
+  "active": "8cc6fe8a6fc1aaf7",
   "lastOpenFiles": [
-    "_SUMARRY.md",
     "HOME.md",
+    "z.文档模版/_SUMARRY.md",
     "z.文档模版"
   ]
 }
