@@ -48,6 +48,16 @@
               "icon": "lucide-file",
               "title": "曝光"
             }
+          },
+          {
+            "id": "efc427a667f00a07",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
         "currentTab": 2
@@ -196,8 +206,13 @@
   },
   "active": "153bc0ca897af301",
   "lastOpenFiles": [
-    "1762525038371.png",
+    "d.资源附件",
+    "复盘.canvas",
     "p.摄影笔记/技术学习/曝光.md",
+    "Screenshot_2025-11-09-11-59-10-237_com.tencent.mobileqq.jpg",
+    "DSC_1226.nef",
+    "未命名.md",
+    "1762525038371.png",
     "z.文档模版/通用学习.md",
     "README.md",
     "p.摄影笔记/技术学习",
