@@ -1,5 +1,4 @@
 {
-  "newFileLocation": "current",
-  "newFileFolderPath": "d.笔记附件",
-  "attachmentFolderPath": "d.笔记附件"
+  "promptDelete": false,
+  "newLinkFormat": "absolute"
 }
