@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p.摄影笔记/技术学习/曝光.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "曝光"
+              "title": "README"
             }
           },
           {
@@ -206,9 +206,9 @@
   },
   "active": "153bc0ca897af301",
   "lastOpenFiles": [
+    "p.摄影笔记/技术学习/曝光.md",
     "d.资源附件",
     "复盘.canvas",
-    "p.摄影笔记/技术学习/曝光.md",
     "Screenshot_2025-11-09-11-59-10-237_com.tencent.mobileqq.jpg",
     "DSC_1226.nef",
     "未命名.md",
