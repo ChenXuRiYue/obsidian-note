@@ -41,6 +41,20 @@
               "state": {
                 "file": "z.文档模版/通用学习.md",
                 "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "通用学习"
+            }
+          },
+          {
+            "id": "7b444aac2d97b550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z.文档模版/通用学习.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -48,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,16 +211,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b03863028ed681b6",
+  "active": "7b444aac2d97b550",
   "lastOpenFiles": [
     "z.文档模版/_SUMARRY.md",
+    "z.文档模版/通用学习.md",
+    "code-block-enhance.css.md",
     "p.摄影笔记/技术学习/曝光.md",
     "d.笔记附件/_README.md",
     "conflict-files-obsidian-git.md",
     "DSC_1226.nef",
     "d.笔记附件/1762525038371.png",
     "z.文档模版/().md",
-    "z.文档模版/通用学习.md",
     "README.md",
     "d.笔记附件",
     "p.摄影笔记/技术学习",
