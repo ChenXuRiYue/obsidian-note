@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z.文档模版/通用学习.md",
+                "file": "p.摄影笔记/技术学习/曝光.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "通用学习"
+              "title": "曝光"
             }
           },
           {
@@ -224,8 +224,8 @@
   },
   "active": "b03863028ed681b6",
   "lastOpenFiles": [
-    "未命名.base",
     "z.文档模版/通用学习.md",
+    "未命名.base",
     "p.摄影笔记/技术学习/曝光.md",
     "p.摄影笔记/技术学习/曝光——.md",
     "z.文档模版/_SUMARRY.md",
