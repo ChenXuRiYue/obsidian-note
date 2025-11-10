@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p.摄影笔记/技术学习/曝光——.md",
+                "file": "p.摄影笔记/技术学习/曝光.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "曝光——"
+              "title": "曝光"
             }
           },
           {
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,13 +205,23 @@
               "icon": "lucide-list",
               "title": "_SUMARRY 的大纲"
             }
+          },
+          {
+            "id": "d176fc693c452bb7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,13 +235,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1494868a1851dd13",
+  "active": "7b444aac2d97b550",
   "lastOpenFiles": [
-    "p.摄影笔记/技术学习/曝光——.md",
-    "p.摄影笔记/技术学习/曝光.md",
     "z.文档模版/通用学习.md",
-    "未命名",
+    "p.摄影笔记/技术学习/曝光——.md",
     "z.文档模版/_SUMARRY.md",
+    "p.摄影笔记/技术学习/曝光.md",
+    "未命名",
     "code-block-enhance.css.md",
     "d.笔记附件/_README.md",
     "conflict-files-obsidian-git.md",
