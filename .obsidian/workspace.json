@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "caf63e66985959d8",
@@ -209,16 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b03863028ed681b6",
+  "active": "8cc6fe8a6fc1aaf7",
   "lastOpenFiles": [
+    "d.笔记附件/Screenshot_2025-11-12-13-20-08-888_com.microsoft.emmx-edit.jpg",
+    "d.笔记附件/_README.md",
     "z.文档模版/通用学习.md",
-    "未命名.base",
-    "p.摄影笔记/技术学习/曝光.md",
-    "p.摄影笔记/技术学习/曝光——.md",
     "z.文档模版/_SUMARRY.md",
+    "p.摄影笔记/技术学习/曝光.md",
+    "未命名.base",
+    "p.摄影笔记/技术学习/曝光——.md",
     "未命名",
     "code-block-enhance.css.md",
-    "d.笔记附件/_README.md",
     "conflict-files-obsidian-git.md",
     "DSC_1226.nef",
     "d.笔记附件/1762525038371.png",
