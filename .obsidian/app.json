@@ -2,6 +2,7 @@
   "promptDelete": false,
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "d.笔记附件"
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "z.笔记附件"
 }
