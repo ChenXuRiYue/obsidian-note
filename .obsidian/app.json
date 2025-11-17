@@ -1,5 +1,7 @@
 {
   "promptDelete": false,
   "newLinkFormat": "absolute",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "d.笔记附件"
 }

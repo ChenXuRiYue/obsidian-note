@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "caf63e66985959d8",
@@ -208,16 +209,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cc6fe8a6fc1aaf7",
+  "active": "b03863028ed681b6",
   "lastOpenFiles": [
-    "d.笔记附件/Pasted image 20251118000341.png",
-    "p.摄影笔记/技术学习/档位.md",
-    "p.摄影笔记/技术学习/测光原理.md",
     "p.摄影笔记/技术学习/曝光.md",
-    "Screenshot_2025-11-12-13-20-08-888_com.microsoft.emmx-edit.jpg",
-    "z.文档模版/通用学习.md",
-    "d.笔记附件/_README.md",
-    "z.文档模版/_SUMARRY.md",
+    "p.摄影笔记/技术学习/测光原理.md",
+    "z.笔记附件/Pasted image 20251118000550.png",
+    "z.笔记附件/Screenshot_2025-11-12-13-20-08-888_com.microsoft.emmx-edit.jpg",
+    "z.笔记附件/Pasted image 20251118000341.png",
+    "p.摄影笔记/技术学习/档位.md",
+    "y.文档模版/通用学习.md",
+    "z.笔记附件/_README.md",
+    "y.文档模版/_SUMARRY.md",
     "未命名.base",
     "p.摄影笔记/技术学习/曝光——.md",
     "未命名",
@@ -227,10 +229,10 @@
     "d.笔记附件/1762525038371.png",
     "z.文档模版/().md",
     "README.md",
-    "d.笔记附件",
+    "z.笔记附件",
     "p.摄影笔记/技术学习",
     "p.摄影笔记",
     "HOME.md",
-    "z.文档模版"
+    "y.文档模版"
   ]
 }
