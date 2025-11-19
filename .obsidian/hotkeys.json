@@ -1,3 +1,12 @@
 {
-  "workspace:new-tab": []
+  "workspace:new-tab": [],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
 }
