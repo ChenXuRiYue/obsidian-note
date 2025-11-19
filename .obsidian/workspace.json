@@ -177,19 +177,9 @@
               "icon": "lucide-list",
               "title": "_SUMARRY 的大纲"
             }
-          },
-          {
-            "id": "d176fc693c452bb7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
