@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,8 +213,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cabf53b80e80fb3c",
+  "active": "b03863028ed681b6",
   "lastOpenFiles": [
+    "z.笔记附件/_README.md",
     "z.笔记附件/Pasted image 20251118000341.png",
     "z.笔记附件/Pasted image 20251118001007.png",
     "z.笔记附件/Pasted image 20251118000550.png",
@@ -226,7 +227,6 @@
     "p.摄影笔记/技术学习/曝光.md",
     "z.笔记附件/Screenshot_2025-11-12-13-20-08-888_com.microsoft.emmx-edit.jpg",
     "y.文档模版/通用学习.md",
-    "z.笔记附件/_README.md",
     "y.文档模版/_SUMARRY.md",
     "未命名.base",
     "p.摄影笔记/技术学习/曝光——.md",
