@@ -48,20 +48,6 @@
             }
           },
           {
-            "id": "69b684266a25558f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "p.摄影笔记/技术学习/附件库/未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
             "id": "cabf53b80e80fb3c",
             "type": "leaf",
             "state": {
@@ -76,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,10 +212,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cc6fe8a6fc1aaf7",
+  "active": "b03863028ed681b6",
   "lastOpenFiles": [
+    "p.摄影笔记/技术学习/附件库/📝 厂家照片亮度统计模型.md",
     "p.摄影笔记/技术学习/测光原理.md",
-    "p.摄影笔记/技术学习/附件库/未命名.md",
     "p.摄影笔记/技术学习/附件库",
     "z.笔记附件/_README.md",
     "z.笔记附件/Pasted image 20251118000341.png",
