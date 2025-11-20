@@ -48,6 +48,20 @@
             }
           },
           {
+            "id": "69b684266a25558f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "p.摄影笔记/技术学习/附件库/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
             "id": "cabf53b80e80fb3c",
             "type": "leaf",
             "state": {
@@ -62,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "caf63e66985959d8",
@@ -213,13 +226,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b03863028ed681b6",
+  "active": "8cc6fe8a6fc1aaf7",
   "lastOpenFiles": [
+    "p.摄影笔记/技术学习/测光原理.md",
+    "p.摄影笔记/技术学习/附件库/未命名.md",
+    "p.摄影笔记/技术学习/附件库",
     "z.笔记附件/_README.md",
     "z.笔记附件/Pasted image 20251118000341.png",
     "z.笔记附件/Pasted image 20251118001007.png",
     "z.笔记附件/Pasted image 20251118000550.png",
-    "p.摄影笔记/技术学习/测光原理.md",
     "p.摄影笔记/技术学习/档位.md",
     "z.笔记附件/Pasted image 20251118002506.png",
     "z.笔记附件/Pasted image 20251118001332.png",
@@ -230,7 +245,6 @@
     "y.文档模版/_SUMARRY.md",
     "未命名.base",
     "p.摄影笔记/技术学习/曝光——.md",
-    "未命名",
     "code-block-enhance.css.md",
     "conflict-files-obsidian-git.md",
     "DSC_1226.nef",
