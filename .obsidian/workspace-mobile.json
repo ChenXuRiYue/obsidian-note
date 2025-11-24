@@ -53,14 +53,14 @@
             "id": "55c39405830bddc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "言行规范/口头禅.md",
-                "mode": "source",
-                "source": false
+                "aFile": "言行规范/口头禅.md",
+                "bFile": "言行规范/口头禅.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "口头禅"
+              "icon": "git-pull-request",
+              "title": "Diff: 口头禅"
             }
           },
           {
@@ -220,6 +220,9 @@
   },
   "active": "55c39405830bddc8",
   "lastOpenFiles": [
+    "/p.摄影笔记/技术学习/测光原理.md",
+    "/p.摄影笔记/技术学习",
+    "/p.摄影笔记",
     "言行规范/口头禅.md",
     "p.摄影笔记/技术学习/档位.md",
     "言行规范",
@@ -229,11 +232,8 @@
     "/z.笔记附件/_README.md",
     "/z.笔记附件",
     "/p.摄影笔记/技术学习/附件库/📝 相机如何“看”亮度：主流厂商测光统计模型解析.md",
-    "/p.摄影笔记/技术学习/测光原理.md",
     "/p.摄影笔记/技术学习/附件库",
     "p.摄影笔记/技术学习/附件库",
-    "/p.摄影笔记/技术学习",
-    "/p.摄影笔记",
     "y.文档模版/通用学习.md",
     "z.笔记附件/Pasted image 20251118002506.png",
     "z.笔记附件/Pasted image 20251118001332.png",
