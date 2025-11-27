@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p.摄影笔记/技术学习/测光原理.md",
+                "file": "b.书籍阅读/百年经典/名词字典.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测光原理"
+              "title": "名词字典"
             }
           },
           {
@@ -178,14 +178,23 @@
               "icon": "lucide-list",
               "title": "_SUMARRY 的大纲"
             }
+          },
+          {
+            "id": "3bd7303b003691c2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,13 +208,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8009719694cb8d1",
+  "active": "3bd7303b003691c2",
   "lastOpenFiles": [
+    "p.摄影笔记/技术学习/测光原理.md",
     "p.摄影笔记/阶段及计划.md",
     "b.书籍阅读/百年经典/名词字典.md",
     "b.书籍阅读/百年经典",
     "b.书籍阅读",
-    "p.摄影笔记/技术学习/测光原理.md",
     "p.摄影笔记/技术学习/附件库/📝 相机如何“看”亮度：主流厂商测光统计模型解析.md",
     "言行规范/口头禅.md",
     "言行规范",
