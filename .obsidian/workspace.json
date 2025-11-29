@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z.文档模版/_SUMARRY.md",
+                "file": "y.文档模版/🗓️ Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "_SUMARRY 的大纲"
+              "title": "🗓️ Plan 的大纲"
             }
           },
           {
@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4365325d363f48bb",
+  "active": "d7ec0a238f4ad464",
   "lastOpenFiles": [
     "p.摄影笔记/🗓️ plan.md",
     "p.摄影笔记/技术学习/附件库/📝 相机如何“看”亮度：主流厂商测光统计模型解析.md",
