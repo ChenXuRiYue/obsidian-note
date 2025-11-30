@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "y.文档模版/🗓️ Plan.md",
+                "file": "p.摄影笔记/技术学习/测光原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗓️ Plan"
+              "title": "测光原理"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "y.文档模版/🗓️ Plan.md",
+                "file": "p.摄影笔记/技术学习/测光原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🗓️ Plan 的大纲"
+              "title": "测光原理 的大纲"
             }
           },
           {
@@ -237,12 +237,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7ec0a238f4ad464",
+  "active": "4365325d363f48bb",
   "lastOpenFiles": [
+    "y.文档模版/🪵 通用学习.md",
+    "y.文档模版/🗓️ Plan.md",
     "p.摄影笔记/🗓️ plan.md",
     "p.摄影笔记/技术学习/附件库/📝 相机如何“看”亮度：主流厂商测光统计模型解析.md",
     "b.书籍阅读/百年孤独/名词字典.md",
-    "y.文档模版/🗓️ Plan.md",
     "y.文档模版/_SUMARRY.md",
     "README.md",
     "b.书籍阅读/百年孤独",
@@ -265,7 +266,6 @@
     "z.笔记附件/Pasted image 20251118001208.png",
     "p.摄影笔记/技术学习/曝光.md",
     "z.笔记附件/Screenshot_2025-11-12-13-20-08-888_com.microsoft.emmx-edit.jpg",
-    "y.文档模版/通用学习.md",
     "未命名.base",
     "p.摄影笔记/技术学习/曝光——.md",
     "code-block-enhance.css.md",
