@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p.摄影笔记/🗓️ plan.md",
+                "file": "p.摄影笔记/🗓️ plan-2025-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗓️ plan"
+              "title": "🗓️ plan-2025-12"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p.摄影笔记/🗓️ plan.md",
+                "file": "p.摄影笔记/🗓️ plan-2025-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗓️ plan"
+              "title": "🗓️ plan-2025-12"
             }
           },
           {
@@ -131,7 +131,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p.摄影笔记/🗓️ plan.md",
+                "file": "p.摄影笔记/🗓️ plan-2025-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🗓️ plan 的大纲"
+              "title": "🗓️ plan-2025-12 的大纲"
             }
           },
           {
@@ -223,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,10 +241,11 @@
   },
   "active": "4365325d363f48bb",
   "lastOpenFiles": [
+    "p.摄影笔记/技术学习/曝光.md",
+    "p.摄影笔记/🗓️ plan-2025-12.md",
     "p.摄影笔记/技术学习/测光原理.md",
     "y.文档模版/🪵 通用学习.md",
     "y.文档模版/🗓️ Plan.md",
-    "p.摄影笔记/🗓️ plan.md",
     "p.摄影笔记/技术学习/附件库/📝 相机如何“看”亮度：主流厂商测光统计模型解析.md",
     "b.书籍阅读/百年孤独/名词字典.md",
     "y.文档模版/_SUMARRY.md",
@@ -264,7 +267,6 @@
     "z.笔记附件/Pasted image 20251118002506.png",
     "z.笔记附件/Pasted image 20251118001332.png",
     "z.笔记附件/Pasted image 20251118001208.png",
-    "p.摄影笔记/技术学习/曝光.md",
     "z.笔记附件/Screenshot_2025-11-12-13-20-08-888_com.microsoft.emmx-edit.jpg",
     "未命名.base",
     "p.摄影笔记/技术学习/曝光——.md",
