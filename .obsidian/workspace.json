@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,7 +238,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bd7303b003691c2",
+  "active": "4365325d363f48bb",
   "lastOpenFiles": [
     "p.摄影笔记/🗓️ plan-2025-12.md",
     "b.书籍阅读/百年孤独/名词字典.md",
