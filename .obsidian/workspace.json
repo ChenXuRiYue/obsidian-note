@@ -219,12 +219,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4365325d363f48bb",
+  "active": "d7ec0a238f4ad464",
   "lastOpenFiles": [
     "y.文档模版/🗓️ Plan.md",
     "p.摄影笔记/🗓️ plan-2025-12.md",
